@@ -4,11 +4,18 @@ IoT application for real time monitoring of industrial machines with anomaly det
 
 ## 🎯 Description
 
-This project implements an industrial machine's **Digital Twin** that:
-- 📊 Collects simulated telemetry data (RPM, temperature, vibration)
-- 🔔 Detects anomalies at real time
-- 🌐 Exposes a synchronized state by means of REST API
-- 📱 Communicates with MQTT protocol
+**Industrial Digital Twin** is a comprehensive IoT monitoring system that creates a 
+virtual representation of an industrial machine in real-time. It captures live telemetry 
+data, detects operational anomalies, and exposes a synchronized state through REST APIs 
+and MQTT messaging.
+
+### Key Features:
+- 📊 **Real-time Telemetry Collection**: Continuous monitoring of RPM, temperature, and vibration
+- 🔔 **Intelligent Anomaly Detection**: Automatic alerts for out-of-threshold conditions
+- 🌐 **REST API Integration**: Access machine state via modern HTTP endpoints
+- 📱 **MQTT Communication**: Decoupled components using publish/subscribe pattern
+- 🔢 **State Management**: Synchronized machine state across all system components
+- ⚙️ **Configurable Thresholds**: Customizable alert parameters for different scenarios
 
 ### Architecture
 
