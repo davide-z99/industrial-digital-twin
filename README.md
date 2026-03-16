@@ -190,9 +190,24 @@ curl http://localhost:8000/machine | jq
 
 MIT License - see `LICENSE` FILE to details
 
-## 👤 Author
-
-Davide Ziglioli
+## 👨‍💻 Author
+<div style="display: flex; flex-direction: column; gap: 25px;">
+    <!-- Davide Ziglioli -->
+    <div style="display: flex; align-items: center; gap: 15px;">
+        <img src="ziglioli.jpg" width="60" style="border-radius: 50%; border: 2px solid #eee;"/>
+        <div>
+        <h3 style="margin: 0;">Davide Ziglioli</h3>
+        <p style="margin: 4px 0;">Digital Automation Engineering Graduated Student<br> University of Modena and Reggio Emilia, Department of Sciences and Methods for Engineering (DISMI)</p>
+        <div>
+            <a href="https://www.linkedin.com/in/davide-ziglioli/">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+            </a>
+            <a href="https://github.com/davide-z99" style="margin-left: 8px;">
+            <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
+            </a>
+        </div>
+        </div>
+    </div>
 
 ## 📧 Contacts
 
